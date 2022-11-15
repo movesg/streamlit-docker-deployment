@@ -21,4 +21,7 @@ Under App platform, go to Create App and select your repository. The app platfor
 
 ## References
 https://docs.digitalocean.com/products/app-platform/reference/app-spec/
+
 https://www.digitalocean.com/community/questions/how-to-deploy-docker-container-using-do-deploy-template-yaml
+
+https://docs.streamlit.io/knowledge-base/tutorials/deploy/docker
