@@ -1,0 +1,8 @@
+name: streamlit-docker-deployment
+services:
+- dockerfile_path: Dockerfile
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: thespacecuber/streamlit-docker-deployment
+  name: streamlit-docker-deployment
