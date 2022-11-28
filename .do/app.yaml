@@ -4,5 +4,5 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: thespacecuber/streamlit-docker-deployment
-  name: streamlit-docker-deployment
+    repo: movesg/streamlit-docker-deployment
+  name: lucky-draw-app
