@@ -4,5 +4,5 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: qwab/lucky-draw-app
+    repo: movesg/lucky-draw-app
   name: lucky-draw-app
