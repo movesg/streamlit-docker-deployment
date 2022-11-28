@@ -4,5 +4,5 @@ spec:
   - dockerfile_path: Dockerfile
     git:
       branch: main
-      repo_clone_url: https://github.com/thespacecuber/streamlit-docker-deployment.git
-    name: streamlit-docker-deployment
+      repo_clone_url: https://github.com/qwab/lucky-draw-app.git
+    name: lucky-draw-app
