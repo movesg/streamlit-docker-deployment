@@ -1,4 +1,4 @@
-name: streamlit-docker-deployment
+name: lucky-draw-app
 services:
 - dockerfile_path: Dockerfile
   github:
